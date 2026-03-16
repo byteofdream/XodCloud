@@ -1,4 +1,4 @@
-</main>
+﻿</main>
 <div class="mini-player" id="mini-player">
     <div class="mini-track">
         <span class="mini-title">Nothing playing</span>
